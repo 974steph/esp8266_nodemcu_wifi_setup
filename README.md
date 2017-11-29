@@ -10,7 +10,7 @@ This script allows and end users to easily configure an ESP to connect to a loca
  * The ESP reboots and connects to your local WiFi.
 
 ## This is magic! How can I replicate it?
-A guide to building NodeMCU can be found [here](http://memset.io/building-nodemcu-for-the-esp8266.html).
+A guide to building NodeMCU can be found [here](http://memcpy.io/building-nodemcu-for-the-esp8266.html).
 
  * In dhcpserver.h, #define USE_DNS 1
  * Build NodeMCU.
